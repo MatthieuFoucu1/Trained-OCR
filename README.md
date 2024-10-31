@@ -1,5 +1,8 @@
 # Trained-OCR
 
+## What to download
+1.  
+
 ### How to Run
 
 1. Ensure all required packages are installed. Including draw.py  
