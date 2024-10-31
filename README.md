@@ -1,7 +1,11 @@
 # Trained-OCR
 
-## What to download
-1.  
+## What to Download
+
+To set up the necessary dependencies, follow the instructions below.
+1. **If using Python 3**, run:
+   ```bash
+   pip3 install tensorflow numpy matplotlib opencv-python
 
 ### How to Run
 
